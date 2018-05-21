@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f87a3b2a-6897-4093-a9c6-d51d98ea2f25" name="Default" comment="" />
+    <list default="true" id="f87a3b2a-6897-4093-a9c6-d51d98ea2f25" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/9c7bbd28-2e00-40f1-b406-155683a2b05a/_metadata_/metadata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/9c7bbd28-2e00-40f1-b406-155683a2b05a/_metadata_/metadata.keystream" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/9c7bbd28-2e00-40f1-b406-155683a2b05a/_metadata_/metadata.keystream.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/9c7bbd28-2e00-40f1-b406-155683a2b05a/_metadata_/metadata.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/9c7bbd28-2e00-40f1-b406-155683a2b05a/_metadata_/metadata_i" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/9c7bbd28-2e00-40f1-b406-155683a2b05a/_metadata_/metadata_i.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/9c7bbd28-2e00-40f1-b406-155683a2b05a.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/mysite.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/templates/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/templates/login/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/templates/login/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/wsgi.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
